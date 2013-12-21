@@ -11,7 +11,7 @@ Getting started
 1. Run mex --setup.
 2. Run example.m in MATLAB, the mex'ed c++ code compiles automatically.
 
-All functionally is described in example.m
+All functionally is described in example.m.
 
 Third party software
 ---
@@ -22,7 +22,7 @@ Third party software
 * If you use the solver based on lagrangian duality, the code uses the max/flow min solver
 	by Yuri Boykov and Vladimir Kolmogorov [3] which reuses flow as described in [4].
 
-* If you use roof duality, the code uses the QPBO software [5]
+* If you use roof duality, the code uses the QPBO software [5].
 
 More resources
 ---
@@ -30,7 +30,7 @@ Martin Rykfors has written a more efficient solver
 if your problem only have inclusions and you are satisfied
 with standard connectivities.
 [Code](https://github.com/MartinRykfors/MultiRegion)
-more details in his [Master thesis](http://www.maths.lth.se/vision/education/pages/Rykfors12/exjobb.pdf)
+more details in his [Master thesis](http://www.maths.lth.se/vision/education/pages/Rykfors12/exjobb.pdf).
 
 References
 ----------
@@ -39,7 +39,7 @@ References
  (http://www.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=531)
  IEEE Transactions on Medical Imaging 2013.
 
-2. John Burkardt [Sphere voronoi](http://people.sc.fsu.edu/~jburkardt/m_src/sphere_voronoi/sphere_voronoi.html)
+2. John Burkardt [Sphere voronoi](http://people.sc.fsu.edu/~jburkardt/m_src/sphere_voronoi/sphere_voronoi.html).
 
 
 3. Yuri Boykov and Vladimir Kolmogorov. 
