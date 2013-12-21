@@ -27,7 +27,7 @@ Third party software
 More resources
 ---
 Martin Rykfors has written a more efficient solver 
-if you problem only have inclusions and you are satisfied
+if your problem only have inclusions and you are satisfied
 with standard connectivities.
 [Code](https://github.com/MartinRykfors/MultiRegion)
 more details in his [Master thesis](http://www.maths.lth.se/vision/education/pages/Rykfors12/exjobb.pdf)
