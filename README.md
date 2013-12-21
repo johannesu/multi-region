@@ -55,4 +55,4 @@ References
 
 5. C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer. 
   [Optimizing binary MRFs via extended roof duality.]
-  (http://pub.ist.ac.at/~vnk/software.html) Computer Vision and Pattern Recognition, 2007.
+  (http://pub.ist.ac.at/~vnk/software.html) IEEE Conference on Computer Vision and Pattern Recognition, 2007.
