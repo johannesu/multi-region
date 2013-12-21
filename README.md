@@ -8,7 +8,7 @@ Requirements
 
 Getting started
 ---
-1. Run mex --setup.
+1. Run mex -setup.
 2. Run example.m in MATLAB, the mex'ed c++ code compiles automatically.
 
 All functionally is described in example.m.
