@@ -2,6 +2,10 @@ This is a MatLab/C++ library of [1].
 
 The code supports arbitrary number of regions, inclusion and exclusion constraints.
 
+![ScreenShot](screenshot/multi-simple.png)
+
+Results from a toy example.
+
 Requirements 
 ---
 1. MATLAB and a c++ compiler.
