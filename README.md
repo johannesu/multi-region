@@ -1,6 +1,6 @@
-This is a MatLab/C++ library of [1].
+This is a MATLAB/C++ for our multi-region segmentation paper [1].
 
-The code supports arbitrary number of regions, inclusion and exclusion constraints.
+The code supports segmentation with arbitrary number of regions, inclusion and exclusion constraints.
 
 ![ScreenShot](screenshot/multi-simple.png)
 
