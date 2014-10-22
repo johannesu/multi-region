@@ -2,7 +2,7 @@ This is a MATLAB/C++ for our multi-region segmentation paper [1].
 
 The code supports segmentation with arbitrary number of regions, inclusion and exclusion constraints.
 
-![ScreenShot](screenshot/multi-simple.png)
+![Example](screenshot/multi-simple.png)
 
 Results from a toy example.
 
