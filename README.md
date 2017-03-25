@@ -40,22 +40,22 @@ References
 
 1. [An Efficient Optimization Framework for Multi-Region Segmentation based on Lagrangian Duality](http://www.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=531)<br />
  IEEE Transactions on Medical Imaging 2013.<br />
- __Johannes Ulén, Petter Strandmark and Fredrik Kahl__.  
+ _Johannes Ulén, Petter Strandmark and Fredrik Kahl_
 
 2. [Sphere voronoi](http://people.sc.fsu.edu/~jburkardt/m_src/sphere_voronoi/sphere_voronoi.html)<br />
-__John Burkardt__
+_John Burkardt_
 
 
 3. [An Experimental Comparison of Min-Cut/Max-Flow Algorithms for Energy Minimization in Computer Vision](http://pub.ist.ac.at/~vnk/software.html)<br />
 IEEE pattern analysis and machine intelligence 2004.<br />
-__Yuri Boykov and Vladimir Kolmogorov__. 
+_Yuri Boykov and Vladimir Kolmogorov_
 	
 
 4. [Dynamic graph cuts for efficient inference in markov random fields](https://www.microsoft.com/en-us/research/publication/dynamic-graph-cuts-for-efficient-inference-in-markov-random-fields/)<br />
 IEEE pattern analysis and machine intelligence 2007.<br />
-__Pushmeet Kohli and Philip Torr__.
+_Pushmeet Kohli and Philip Torr_
 	
 
 5. [Optimizing binary MRFs via extended roof duality](http://pub.ist.ac.at/~vnk/software.html)<br />
 IEEE Conference on Computer Vision and Pattern Recognition, 2007.<br />
-__C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer__. 
+_C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer_
