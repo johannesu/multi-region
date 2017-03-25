@@ -38,24 +38,24 @@ with standard connectivities. More details in his [Master thesis](http://www.mat
 References
 ----------
 
-1. Johannes Ulén, Petter Strandmark and Fredrik Kahl.  [An Efficient Optimization Framework for Multi-Region Segmentation based on Lagrangian Duality]
- (http://www.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=531)
- IEEE Transactions on Medical Imaging 2013.
+1. [An Efficient Optimization Framework for Multi-Region Segmentation based on Lagrangian Duality](http://www.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=531)<br />
+ IEEE Transactions on Medical Imaging 2013.<br />
+ __Johannes Ulén, Petter Strandmark and Fredrik Kahl__.  
 
-2. John Burkardt [Sphere voronoi](http://people.sc.fsu.edu/~jburkardt/m_src/sphere_voronoi/sphere_voronoi.html).
+2. [Sphere voronoi](http://people.sc.fsu.edu/~jburkardt/m_src/sphere_voronoi/sphere_voronoi.html)<br />
+__John Burkardt__
 
 
-3. Yuri Boykov and Vladimir Kolmogorov. 
-  [An Experimental Comparison of Min-Cut/Max-Flow Algorithms for Energy Minimization in Computer Vision.]
-  (http://pub.ist.ac.at/~vnk/software.html)
-  IEEE pattern analysis and machine intelligence 2004.
+3. [An Experimental Comparison of Min-Cut/Max-Flow Algorithms for Energy Minimization in Computer Vision](http://pub.ist.ac.at/~vnk/software.html)<br />
+IEEE pattern analysis and machine intelligence 2004.<br />
+__Yuri Boykov and Vladimir Kolmogorov__. 
 	
 
-4. Kohli, Pushmeet, and Philip HS Torr. 
-  "Dynamic graph cuts for efficient inference in markov random fields." 
-  IEEE pattern analysis and machine intelligence 2007.
+4. [Dynamic graph cuts for efficient inference in markov random fields](https://www.microsoft.com/en-us/research/publication/dynamic-graph-cuts-for-efficient-inference-in-markov-random-fields/)<br />
+IEEE pattern analysis and machine intelligence 2007.<br />
+__Pushmeet Kohli and Philip Torr__.
 	
 
-5. C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer. 
-  [Optimizing binary MRFs via extended roof duality.]
-  (http://pub.ist.ac.at/~vnk/software.html) IEEE Conference on Computer Vision and Pattern Recognition, 2007.
+5. [Optimizing binary MRFs via extended roof duality](http://pub.ist.ac.at/~vnk/software.html)<br />
+IEEE Conference on Computer Vision and Pattern Recognition, 2007.<br />
+__C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer__. 
